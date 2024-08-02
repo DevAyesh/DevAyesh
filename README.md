@@ -1,5 +1,6 @@
 
-![Header Image](path/to/your/image.jpg)
+![Header](./[github-header-image(4).png])
+
 <h1 align="center">Hi 👋, I'm Ayesh Madhuranga</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 
