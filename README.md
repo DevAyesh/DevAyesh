@@ -19,10 +19,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="devayesh" /> </p>
 
 
-
+<!--
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **ayeshmaduranga2001@gmail.com**
+
+
+- 📫 Reach me **ayeshmaduranga2001@gmail.com**
+
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +42,7 @@
  <a> <img href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <img src="https://avatars.githubusercontent.com/u/4542585?s=200&v=4" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devayesh&show_icons=true&locale=en&layout=compact" alt="devayesh" /></p>
 
