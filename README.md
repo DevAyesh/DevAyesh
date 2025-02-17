@@ -1,34 +1,62 @@
+﻿# **Hy there, I'm Ayesh Madhuranga**
 
-<div align="center">
-  <img src="https://github.com/DevAyesh/DevAyesh/blob/main/github-header-imag.png" alt="Header Image">
-</div>
+Welcome to my GitHub! I am a passionate Full Stack developer. Dive into my projects and explore my skills and achievements.
 
-<!--
-<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
--->
 ---
 
-<!--
-<h1 align="center">Hi 👋, I'm Ayesh Madhuranga</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
--->
-
- <img align ="right" width = "400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="devayesh" /> </p>
+<div align="center">
 
 
-<!--
-- 🌱 I’m currently learning **Java**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="devayesh"/>&nbsp;
+    <img alt="Stars" src="https://img.shields.io/github/stars/devayesh?style=flat-square&label=Stars&labelColor=343b41"/>
+</p>
 
 
+---
 
-- 📫 Reach me **ayeshmaduranga2001@gmail.com**
+<h3 align="center">My Statistics:</h3>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=devayesh&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
+<p align="center">
+<table align="center" style="background-color: black;">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&locale=en&theme=dark" />
+  <br></br>
+</td>
+<td width="50%" align="center">
 
--->
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=devayesh&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  
+  </td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
+<div align="left">
+  
+## 📂 **Projects** 
+### 1️⃣ **Student Management System**
+- Developed a Student Management System in Java  
+- MySQL for database integration  
+- CRUD Operations  
+
+### 2️⃣ **Restaurant Management System**  
+- A group project focused on building an efficient system to manage restaurant operations, including order processing and menu management.  
+
+---
+
+ ## 🌐 **Get Involved**  
+
+💡 Contributions are highly encouraged! Feel free to explore, fork, and enhance my projects.  
+🚀 Have ideas for improvements? Open an issue or submit a pull request to collaborate on new features.  
+
+---
+## 📫 **Contact Me**
+</div>
+
 <p align="left">
 <a href="https://linkedin.com/in/ayesh-nawarathna-4b2a33217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesh-nawarathna-4b2a33217" height="30" width="40" /></a>
 <a href="https://fb.com/ayesh.madhuranga2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesh.madhuranga2001" height="30" width="40" /></a>
@@ -36,23 +64,7 @@
 <a href="https://discord.gg/ayesh#2265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayesh#2265" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
- <a> <img href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <img src="https://avatars.githubusercontent.com/u/4542585?s=200&v=4" width="40" height="40"/> </a> </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devayesh&show_icons=true&locale=en&layout=compact" alt="devayesh" /></p>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&locale=en" alt="devayesh" />
-
+🌟 Excited to have you here! Let’s connect, innovate, and build something extraordinary together. 🚀✨
