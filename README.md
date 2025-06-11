@@ -1,6 +1,6 @@
-﻿# **Hy there, I'm Ayesh Madhuranga**
+﻿# **Hi there, I'm Ayesh Madhuranga**
 
-Welcome to my GitHub! I am a passionate Full Stack developer. Dive into my projects and explore my skills and achievements.
+Welcome to my GitHub! I am a passionate full-stack developer. Dive into my projects and explore my skills and achievements.
 
 ---
 
