@@ -59,12 +59,4 @@ Welcome to my GitHub! I am a passionate Full Stack developer. Dive into my proje
 
 <p align="left">
 <a href="https://linkedin.com/in/ayesh-nawarathna-4b2a33217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesh-nawarathna-4b2a33217" height="30" width="40" /></a>
-
-<a href="https://instagram.com/___a.y.e.s.h___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___a.y.e.s.h___" height="30" width="40" /></a>
-<a href="https://discord.gg/ayesh#2265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayesh#2265" height="30" width="40" /></a>
-</p>
-
-
----
-
-🌟 Excited to have you here! Let’s connect, innovate, and build something extraordinary together. 🚀✨
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesh.madhuranga2001" height="30" width="40" /></a>
