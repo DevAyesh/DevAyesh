@@ -1,62 +1,113 @@
-﻿# **Hi there, I'm Ayesh Madhuranga**
-
-Welcome to my GitHub! I am a passionate full-stack developer. Dive into my projects and explore my skills and achievements.
-
----
-
-<div align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
-
+<!-- ✨ Animated Header -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="devayesh"/>&nbsp;
-    <img alt="Stars" src="https://img.shields.io/github/stars/devayesh?style=flat-square&label=Stars&labelColor=343b41"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=120&section=header&text=Hi%20There!%20I'm%20Ayesh%20Madhuranga🚀&fontSize=30&fontColor=ffffff" alt="Waving Header" />
 </p>
 
-
----
-
-<h3 align="center">My Statistics:</h3>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=devayesh&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
+<!-- Profile Badges -->
 <p align="center">
-<table align="center" style="background-color: black;">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&locale=en&theme=dark" />
-  <br></br>
-</td>
-<td width="50%" align="center">
+  <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/devayesh?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/devayesh?style=flat-square&color=yellow" alt="Stars" />
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=devayesh&show_icons=true&locale=en&layout=compact&theme=dark"/>
-  
-  </td>
-</tr>
-</table>
-
-<div align="left">
-  
-## 📂 **Projects** 
-### 1️⃣ **Student Management System**
-- Developed a Student Management System in Java  
-- MySQL for database integration  
-- CRUD Operations  
-
-### 2️⃣ **Restaurant Management System**  
-- A group project focused on building an efficient system to manage restaurant operations, including order processing and menu management.  
+<!-- Typing Animation Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Java+%7C+MERN+Developer;DevOps+%7C+Cloud+Explorer;Let's+Build+Something+Great!&center=true&width=500&height=45" alt="Typing Title" />
+</p>
 
 ---
 
- ## 🌐 **Get Involved**  
+## 👋 About Me
 
-💡 Contributions are highly encouraged! Feel free to explore, fork, and enhance my projects.  
-🚀 Have ideas for improvements? Open an issue or submit a pull request to collaborate on new features.  
+I’m **Ayesh Madhuranga**, a passionate final-year IT undergraduate from **Sri Lanka** specialising in full-stack development and cloud technologies.  
+I thrive on building scalable, efficient software solutions that solve real-world challenges.
+
+- 🎓 Currently studying IT with a focus on software engineering  
+- 💻 Skilled in **Java**, **React**, **Node.js**, **MySQL**, and **Android Studio**  
+- 🔍 Exploring **Docker**, **CI/CD**, **MongoDB**, and **Machine Learning**  
+- 🌱 Always learning and aiming to contribute to open-source and impactful projects  
 
 ---
-## 📫 **Contact Me**
-</div>
 
-<p align="left">
-<a href="https://linkedin.com/in/ayesh-nawarathna-4b2a33217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesh-nawarathna-4b2a33217" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesh.madhuranga2001" height="30" width="40" /></a>
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android Studio" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                  | Description                                                  |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| 🔹 [Student Management System](https://github.com/devayesh/Student-Management-System) | Java & MySQL CRUD app following MVC architecture with clean UI |
+| 🔹 Restaurant Management System                           | Java group project managing orders, queues, and billing     |
+| 🔹 [Weather App + CI/CD](https://github.com/DevAyesh/weather-app)            | Full-stack React & Node.js app with Dockerized deployment and GitHub Actions CI/CD pipeline |
+| 🔹 [Vegetable Marketplace App](https://github.com/AkilaShashimantha/Mobile-App-Development) <br><sub><i>Collaborator</i></sub> | Android app with Firebase & PayHere integration, role-based login, and analytics |
+| 🧪 AR & ML Projects (Coming Soon!)                       | Mobile-first apps powered by Machine Learning and Augmented Reality |
+
+---
+
+## 📈 Skill Proficiency
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-85%25-brightgreen?style=for-the-badge&logo=java" alt="Java Skill" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Skill" />
+  <img src="https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react" alt="React Skill" />
+  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js" alt="Node.js Skill" />
+  <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker" alt="Docker Skill" />
+  <img src="https://img.shields.io/badge/MongoDB-60%25-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB Skill" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayesh&theme=radical" width="45%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devayesh&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayesh-nawarathna-4b2a33217" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> 💡 I believe in continuous learning and building in public.  
+> Let’s connect and build impactful solutions together! 🌱
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=100&section=footer" alt="Footer" />
+</p>
+
