@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=120&section=header&text=Hi%20There!%20I'm%20Ayesh%20Madhuranga&fontSize=30&fontColor=ffffff" alt="Waving Header" />
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="60px">
+</p>
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,7 +19,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="40px"> About Me
+##  About Me
 
 
 I'm **Ayesh Madhuranga**, a final-year IT undergraduate from **Sri Lanka**, passionate about full-stack development and DevOps.  
@@ -48,11 +50,10 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 
 ---
 
-## 📊 GitHub Stats & Activity
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=devayesh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
