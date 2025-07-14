@@ -1,6 +1,6 @@
 <!-- ✨ Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=120&section=header&text=Hi%20There!%20I'm%20Ayesh%20Madhuranga🚀&fontSize=30&fontColor=ffffff" alt="Waving Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=120&section=header&text=Hi%20There!%20I'm%20Ayesh%20Madhuranga&fontSize=30&fontColor=ffffff" alt="Waving Header" />
 </p>
 
 <!-- Profile Badges -->
@@ -12,24 +12,24 @@
 
 <!-- Typing Animation Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Java+%7C+MERN+Developer;DevOps+%7C+Cloud+Explorer;Let's+Build+Something+Great!&center=true&width=500&height=45" alt="Typing Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Java+%7C+MERN+Developer;Cloud+Explorer;Let's+Build+Something+Great!&center=true&width=500&height=45" alt="Typing Title" />
 </p>
 
 ---
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="40px"> About Me
 
-I’m **Ayesh Madhuranga**, a passionate final-year IT undergraduate from **Sri Lanka** specialising in full-stack development and cloud technologies.  
-I thrive on building scalable, efficient software solutions that solve real-world challenges.
 
-- 🎓 Currently studying IT with a focus on software engineering  
-- 💻 Skilled in **Java**, **React**, **Node.js**, **MySQL**, and **Android Studio**  
-- 🔍 Exploring **Docker**, **CI/CD**, **MongoDB**, and **Machine Learning**  
-- 🌱 Always learning and aiming to contribute to open-source and impactful projects  
+I'm **Ayesh Madhuranga**, a final-year IT undergraduate from **Sri Lanka**, passionate about full-stack development and DevOps.  
+I enjoy building scalable applications using **Java**, **React**, and **Node.js**, while exploring tools like **Docker**, **MongoDB**, and **CI/CD** to enhance workflow and deployment.
+
+- 💻 Software Developer | Backend & Mobile Apps  
+- ⚙️ Tech Explorer | Always learning, always building  
+- 🌱 Passionate about real-world problem solving
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack & Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
@@ -48,7 +48,21 @@ I thrive on building scalable, efficient software solutions that solve real-worl
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=devayesh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devayesh&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+---
+ 🚀 Featured Projects
 
 | Project                                                  | Description                                                  |
 | -------------------------------------------------------- | ------------------------------------------------------------ |
@@ -58,8 +72,8 @@ I thrive on building scalable, efficient software solutions that solve real-worl
 | 🔹 [Vegetable Marketplace App](https://github.com/AkilaShashimantha/Mobile-App-Development) <br><sub><i>Collaborator</i></sub> | Android app with Firebase & PayHere integration, role-based login, and analytics |
 | 🧪 AR & ML Projects (Coming Soon!)                       | Mobile-first apps powered by Machine Learning and Augmented Reality |
 
----
 
+---
 ## 📈 Skill Proficiency
 
 <p align="center">
@@ -69,19 +83,6 @@ I thrive on building scalable, efficient software solutions that solve real-worl
   <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js" alt="Node.js Skill" />
   <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker" alt="Docker Skill" />
   <img src="https://img.shields.io/badge/MongoDB-60%25-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB Skill" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayesh&theme=radical" width="45%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devayesh&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph" />
 </p>
 
 ---
