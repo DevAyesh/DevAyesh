@@ -71,7 +71,7 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 | 🔹 Restaurant Management System                           | Java group project managing orders, queues, and billing     |
 | 🔹 [Weather App + CI/CD](https://github.com/DevAyesh/weather-app)            | Full-stack React & Node.js app with Dockerized deployment and GitHub Actions CI/CD pipeline |
 | 🔹 [Vegetable Marketplace App](https://github.com/AkilaShashimantha/Mobile-App-Development) <br><sub><i>Collaborator</i></sub> | Android app with Firebase & PayHere integration, role-based login, and analytics |
-| 🧪 AR & ML Projects (Coming Soon!)                       | Mobile-first apps powered by Machine Learning and Augmented Reality |
+| 🔹 🔹 [Streamlit Diabetes Predictor](https://github.com/DevAyesh/streamlit-diabetes-predictor) | Streamlit ML app using scikit-learn with clinical override logic, interactive data visualizations, and ROC-AUC performance dashboard |
 
 
 ---
