@@ -91,7 +91,7 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/ayesh-madhuranga-nawarathna-4b2a33217" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ayesh-madhuranga-nawarathna-4b2a33217/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:ayeshmaduranga2001@gmail.com">
