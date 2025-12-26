@@ -2,9 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=120&section=header&text=Hi%20There!%20I'm%20Ayesh%20Madhuranga&fontSize=30&fontColor=ffffff" alt="Waving Header" />
 </p>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="60px">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="60px" alt="About me animation" />
 </p>
+
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devayesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,45 +14,45 @@
   <img src="https://img.shields.io/github/stars/devayesh?style=flat-square&color=yellow" alt="Stars" />
 </p>
 
-<!-- Typing Animation Title -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Java+%7C+MERN+Developer;Cloud+Explorer;Let's+Build+Something+Great!&center=true&width=500&height=45" alt="Typing Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Java+%7C+MERN+Developer;Cloud+Explorer;Let's+Build+Something+Great!&center=true&width=500&height=45" alt="Typing animation" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
+I'm **Ayesh Madhuranga**, a final-year IT undergraduate from **Sri Lanka** with a strong interest in full-stack development and DevOps.
 
-I'm **Ayesh Madhuranga**, a final-year IT undergraduate from **Sri Lanka**, passionate about full-stack development and DevOps.  
-I enjoy building scalable applications using **Java**, **React**, and **Node.js**, while exploring tools like **Docker**, **MongoDB**, and **CI/CD** to enhance workflow and deployment.
+I enjoy building scalable applications using **Java**, **React**, and **Node.js**, while exploring tools such as **Docker**, **MongoDB**, and **CI/CD** to improve development workflows and deployment reliability.
 
-- 💻 Software Developer | Backend & Mobile Apps  
-- ⚙️ Tech Explorer | Always learning, always building  
-- 🌱 Passionate about real-world problem solving
+- 💻 Software Developer focused on backend and mobile applications  
+- ⚙️ Technology enthusiast with a habit of continuous learning  
+- 🌱 Interested in solving real-world problems through software  
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android Studio" alt="Android Studio" />
 </p>
 
 ---
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devayesh&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
@@ -62,28 +64,27 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 
 ---
 
----
- 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project                                                  | Description                                                  |
-| -------------------------------------------------------- | ------------------------------------------------------------ |
-| 🔹 [Student Management System](https://github.com/devayesh/Student-Management-System) | Java & MySQL CRUD app following MVC architecture with clean UI |
-| 🔹 [Restaurant Management System](https://github.com/DevAyesh/Restaurant) <br><sub><i>Collaborator</i></sub>| Java group project managing orders, queues, and billing     |
-| 🔹 [Weather App + CI/CD](https://github.com/DevAyesh/weather-app)            | Full-stack React & Node.js app with Dockerized deployment and GitHub Actions CI/CD pipeline |
-| 🔹 [Vegetable Marketplace App](https://github.com/AkilaShashimantha/Mobile-App-Development) <br><sub><i>Collaborator</i></sub> | Android app with Firebase & PayHere integration, role-based login, and analytics |
-| 🔹 [Streamlit Diabetes Predictor](https://github.com/DevAyesh/streamlit-diabetes-predictor) | Streamlit ML app using scikit-learn with clinical override logic, interactive data visualizations, and ROC-AUC performance dashboard |
-
+| Project | Description |
+| --- | --- |
+| 🔹 [Student Management System](https://github.com/devayesh/Student-Management-System) | Java and MySQL CRUD application following MVC architecture with a clean user interface |
+| 🔹 [Restaurant Management System](https://github.com/devayesh/Restaurant) <br><sub><i>Collaborator</i></sub> | Java group project for managing orders, queues, and billing |
+| 🔹 [Weather App + CI/CD](https://github.com/devayesh/weather-app) | Full-stack React and Node.js application with Dockerized deployment and GitHub Actions CI/CD pipeline |
+| 🔹 [Vegetable Marketplace App](https://github.com/AkilaShashimantha/Mobile-App-Development) <br><sub><i>Collaborator</i></sub> | Android application with Firebase and PayHere integration, role-based login, and analytics |
+| 🔹 [Streamlit Diabetes Predictor](https://github.com/devayesh/streamlit-diabetes-predictor) | Streamlit machine learning app using scikit-learn with clinical override logic and ROC-AUC dashboard |
 
 ---
+
 ## 📈 Skill Proficiency
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-85%25-brightgreen?style=for-the-badge&logo=java" alt="Java Skill" />
-  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Skill" />
-  <img src="https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react" alt="React Skill" />
-  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js" alt="Node.js Skill" />
-  <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker" alt="Docker Skill" />
-  <img src="https://img.shields.io/badge/MongoDB-60%25-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB Skill" />
+  <img src="https://img.shields.io/badge/Java-85%25-brightgreen?style=for-the-badge&logo=java" alt="Java proficiency" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript proficiency" />
+  <img src="https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react" alt="React proficiency" />
+  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js" alt="Node.js proficiency" />
+  <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker" alt="Docker proficiency" />
+  <img src="https://img.shields.io/badge/MongoDB-60%25-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB proficiency" />
 </p>
 
 ---
@@ -104,7 +105,7 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 ## ⚡ Fun Fact
 
 > 💡 I believe in continuous learning and building in public.  
-> Let’s connect and build impactful solutions together! 🌱
+> Let’s connect and create impactful solutions together.
 
 ---
 
@@ -112,4 +113,3 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=100&section=footer" alt="Footer" />
 </p>
-
