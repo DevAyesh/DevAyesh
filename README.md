@@ -97,24 +97,7 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
   <img src="https://img.shields.io/badge/MongoDB-60%25-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB proficiency" />
 </p>
 
----
 
-## GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devayesh&theme=github_dark" width="95%" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devayesh&theme=github_dark" width="48%" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devayesh&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devayesh&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
