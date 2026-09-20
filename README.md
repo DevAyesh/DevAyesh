@@ -68,6 +68,19 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=devayesh&hide_border=true&show_icons=true&theme=github_dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=devayesh&hide_border=true&theme=github_dark" alt="GitHub Streak" width="49%" />
+</p>
+<br>
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=DevAyesh&hide_border=true&max_langs=10" alt="Top Languages" width="60%" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
