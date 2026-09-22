@@ -81,34 +81,6 @@ I enjoy building scalable applications using **Java**, **React**, and **Node.js*
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| 🔹 [Student Management System](https://github.com/devayesh/Student-Management-System) | Java and MySQL CRUD application following MVC architecture with a clean user interface |
-| 🔹 [Restaurant Management System](https://github.com/devayesh/Restaurant) <br><sub><i>Collaborator</i></sub> | Java group project for managing orders, queues, and billing |
-| 🔹 [Weather App + CI/CD](https://github.com/devayesh/weather-app) | Full-stack React and Node.js application with Dockerized deployment and GitHub Actions CI/CD pipeline |
-| 🔹 [Vegetable Marketplace App](https://github.com/AkilaShashimantha/Mobile-App-Development) <br><sub><i>Collaborator</i></sub> | Android application with Firebase and PayHere integration, role-based login, and analytics |
-| 🔹 [Streamlit Diabetes Predictor](https://github.com/devayesh/streamlit-diabetes-predictor) | Streamlit machine learning app using scikit-learn with clinical override logic and ROC-AUC dashboard |
-
-<p align="center">
-  <a href="https://portfolio-six-sand-83.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/More%20projects-on%20my%20portfolio-38f9d7?style=for-the-badge&labelColor=0d1117" alt="More projects on my portfolio" />
-  </a>
-</p>
-
----
-
-## 📈 Skill Proficiency
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-85%25-brightgreen?style=for-the-badge&logo=java" alt="Java proficiency" />
-  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript proficiency" />
-  <img src="https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react" alt="React proficiency" />
-  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js" alt="Node.js proficiency" />
-  <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker" alt="Docker proficiency" />
-  <img src="https://img.shields.io/badge/MongoDB-60%25-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB proficiency" />
-</p>
 
 
 
